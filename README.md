@@ -75,3 +75,5 @@ We are [IBR Infotech,](http://www.ibrinfotech.com) team of software developers w
 ![N|Solid](http://www.webprojectbuilder.com/assets/home_images/icon.png) [Created with Web Project Builder](http://www.webprojectbuilder.com/) - A smart PHP Project Builder
 
 A Product of [IBR Infotech](http://www.ibrinfotech.com)
+
+This project is a customized version of an open-source PHP project for learning and portfolio purposes.
