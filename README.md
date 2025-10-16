@@ -76,4 +76,4 @@ We are [IBR Infotech,](http://www.ibrinfotech.com) team of software developers w
 
 A Product of [IBR Infotech](http://www.ibrinfotech.com)
 
-This project is a customized version of an open-source PHP project for learning and portfolio purposes.
+This project is a customized version of an open-source PHP project for learning and portfolio purposes - Dhruv Patel
